@@ -1,0 +1,75 @@
+<html>
+<head>
+<!--meta charset="utf-8">
+<meta http-equiv="X-UA-Compatible" content="IE=edge"-->
+<title>JQUERY DATA TABLE</title>
+
+<script src="script/jquery-1.11.3.min.js" type="text/javascript"></script>
+<!-- DataTables CSS -->
+<link rel="stylesheet" type="text/css" href="/api/DataTables-1.10.7/media/css/jquery.dataTables.css">  
+<!-- jQuery -->
+<script type="text/javascript" charset="utf8" src="/api/DataTables-1.10.7/media/js/jquery.js"></script>  
+<!-- DataTables -->
+<script type="text/javascript" charset="utf8" src="/api/DataTables-1.10.7/media/js/jquery.dataTables.js"></script>
+
+
+
+<script>
+
+$(function() {
+
+
+var dmJSON = "http://localhost/api/dataSet.json";
+	
+   $.getJSON( dmJSON, function(data) {
+ 
+   $.each(data.dataSets, function(s, g) {
+      var tblRow = "<tr>" + "<td>" + g.id + "</td>" + "<td>" + g.name + "</td>" + "<td>" + g.created + "</td>"+ "<td>" + g.lastUpdated + "</td>"+ "</tr>"
+       $(tblRow).appendTo("#entrydata tbody");
+ });
+
+$(document).ready(function(){
+$("#entrydata").dataTable({
+	
+});
+});
+
+});
+
+});
+</script>
+</head>
+
+<body>
+
+<div class="wrapper">
+<div class="profile">
+<table width = "60%"id= "entrydata" border="1" >
+
+<thead>
+        <th>ID</th>
+        <th>Name</th>
+        <th>Date Created</th>
+        <th>Date Updated</th>
+        
+    </thead>
+  <tbody>
+
+   </tbody>
+   <tfoot>
+            <tr>
+               <th>ID</th>
+                <th>Name</th>
+                <th>Date Created</th>
+                <th>Date Updated</th>
+                
+            </tr>
+        </tfoot>
+</table>
+
+</div>
+</div>
+
+</body>
+
+</html>

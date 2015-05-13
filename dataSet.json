@@ -1,0 +1,381 @@
+{
+"pager":{
+"page":1,
+"pageCount":2,
+"total":78,
+"nextPage":"http://test.hiskenya.org/api/dataSets?page=2"
+},
+"dataSets":[
+{
+"id":"NUTEbaJDL5S",
+"created":"2013-08-12T12:57:18.352+0000",
+"name":"2013 Health 2013",
+"lastUpdated":"2014-12-04T19:51:17.821+0000",
+"href":"http://test.hiskenya.org/api/dataSets/NUTEbaJDL5S"
+},
+{
+"id":"VkjrgmNke7w",
+"created":"2012-11-12T07:56:53.185+0000",
+"name":"ART Annual Cumulative ",
+"lastUpdated":"2014-12-04T19:52:56.665+0000",
+"code":"ART Annual Cumulative ",
+"href":"http://test.hiskenya.org/api/dataSets/VkjrgmNke7w"
+},
+{
+"id":"eV5NlFkpmtp",
+"created":"2013-02-13T13:54:56.554+0000",
+"name":"AWP 1.1.1 Health Expenditures (previous year) ",
+"lastUpdated":"2014-12-04T19:50:18.889+0000",
+"href":"http://test.hiskenya.org/api/dataSets/eV5NlFkpmtp"
+},
+{
+"id":"a8Gz5XBpIt4",
+"created":"2012-12-17T09:05:23.792+0000",
+"name":"AWP 1.1.4 Health Leadership - Management Support",
+"lastUpdated":"2014-12-04T19:53:01.208+0000",
+"href":"http://test.hiskenya.org/api/dataSets/a8Gz5XBpIt4"
+},
+{
+"id":"j812C4PhHeI",
+"created":"2012-12-08T14:28:46.850+0000",
+"name":"AWP 1.4.1 Health Workforce",
+"lastUpdated":"2014-12-04T19:50:20.610+0000",
+"code":"Human Resource",
+"href":"http://test.hiskenya.org/api/dataSets/j812C4PhHeI"
+},
+{
+"id":"oLyBugCx8Eb",
+"created":"2013-02-13T13:54:56.997+0000",
+"name":"AWP 1.4.2 Health Infrastructure",
+"lastUpdated":"2014-12-04T19:53:13.936+0000",
+"href":"http://test.hiskenya.org/api/dataSets/oLyBugCx8Eb"
+},
+{
+"id":"VDL2P8EDKZE",
+"created":"2013-02-13T13:54:57.800+0000",
+"name":"AWP 1.4.3 Health Products",
+"lastUpdated":"2014-12-04T19:50:21.608+0000",
+"href":"http://test.hiskenya.org/api/dataSets/VDL2P8EDKZE"
+},
+{
+"id":"EVGb3LjJIEM",
+"created":"2013-02-13T13:54:57.689+0000",
+"name":"AWP 1.4.5-7 Health Information Leadership and Service delivery",
+"lastUpdated":"2014-12-04T19:50:22.181+0000",
+"href":"http://test.hiskenya.org/api/dataSets/EVGb3LjJIEM"
+},
+{
+"id":"kLx5eU2tD3B",
+"created":"2013-03-15T05:11:09.607+0000",
+"name":"AWP 1.4 Community Health Investmets",
+"lastUpdated":"2014-12-22T07:58:35.377+0000",
+"href":"http://test.hiskenya.org/api/dataSets/kLx5eU2tD3B"
+},
+{
+"id":"TJXftyfrI71",
+"created":"2013-02-13T13:54:57.112+0000",
+"name":"AWP 3.1\tAnnual performance targets ",
+"lastUpdated":"2014-12-04T19:53:22.104+0000",
+"href":"http://test.hiskenya.org/api/dataSets/TJXftyfrI71"
+},
+{
+"id":"q5286LFwE7e",
+"created":"2013-03-15T05:11:09.846+0000",
+"name":"AWP 3.3 Community Unit Targeted Improvements In Outcomes",
+"lastUpdated":"2014-12-22T07:58:36.988+0000",
+"href":"http://test.hiskenya.org/api/dataSets/q5286LFwE7e"
+},
+{
+"id":"NPdqk0U6Zi9",
+"created":"2013-02-13T13:54:56.250+0000",
+"name":"AWP 4.1 Budget Resource Envelope",
+"lastUpdated":"2014-12-04T19:50:23.678+0000",
+"href":"http://test.hiskenya.org/api/dataSets/NPdqk0U6Zi9"
+},
+{
+"id":"oVTOGGXwSVa",
+"created":"2012-11-05T13:55:45.107+0000",
+"name":"AWP Monthly Service Delivery",
+"lastUpdated":"2014-12-09T13:26:31.339+0000",
+"href":"http://test.hiskenya.org/api/dataSets/oVTOGGXwSVa"
+},
+{
+"id":"m51BU2kr9fk",
+"created":"2013-03-15T05:11:09.766+0000",
+"name":"CHIS Actual Population",
+"lastUpdated":"2014-12-22T07:56:42.815+0000",
+"code":"CHIS Actual Population",
+"href":"http://test.hiskenya.org/api/dataSets/m51BU2kr9fk"
+},
+{
+"id":"JBvQkICDeE7",
+"created":"2012-12-17T09:06:38.651+0000",
+"name":"Consumption and Request Logistic Management",
+"lastUpdated":"2014-12-04T19:54:00.655+0000",
+"code":"Consumption LMS",
+"href":"http://test.hiskenya.org/api/dataSets/JBvQkICDeE7"
+},
+{
+"id":"hBH6ZUcQjuu",
+"created":"2013-02-08T06:32:35.577+0000",
+"name":"District Contraceptives Consumption and Requests",
+"lastUpdated":"2014-12-04T19:50:25.830+0000",
+"code":" District Contraceptive",
+"href":"http://test.hiskenya.org/api/dataSets/hBH6ZUcQjuu"
+},
+{
+"id":"AB83v1v0nQw",
+"created":"2012-09-18T12:05:37.161+0000",
+"name":"Division of Occupational Therapy",
+"lastUpdated":"2014-12-04T19:54:05.889+0000",
+"code":"Division of OT",
+"href":"http://test.hiskenya.org/api/dataSets/AB83v1v0nQw"
+},
+{
+"id":"g3RQRuh8ikd",
+"created":"2013-11-08T09:12:29.301+0000",
+"name":"Facility Contraceptives Consumption Report and Request Form",
+"lastUpdated":"2014-12-22T07:52:42.798+0000",
+"href":"http://test.hiskenya.org/api/dataSets/g3RQRuh8ikd"
+},
+{
+"id":"s9N9Da4Lqns",
+"created":"2014-10-24T06:18:51.273+0000",
+"name":"FACILITY LEPROSY, TUBERCULOSIS COMMODITIES CONSUMPTION DATA REPORT & REQUEST FORM",
+"lastUpdated":"2014-12-04T19:54:11.285+0000",
+"href":"http://test.hiskenya.org/api/dataSets/s9N9Da4Lqns"
+},
+{
+"id":"UHo6NemmdOS",
+"created":"2013-01-24T15:02:24.910+0000",
+"name":"Financial Information System - Monthly Payment and Commitment Summary",
+"lastUpdated":"2014-12-04T19:54:18.291+0000",
+"code":"FIS03G",
+"href":"http://test.hiskenya.org/api/dataSets/UHo6NemmdOS"
+},
+{
+"id":"dSxnXM3ISYe",
+"created":"2014-10-01T08:07:19.538+0000",
+"name":"Form D:Sub County Report Albendazole ",
+"lastUpdated":"2014-12-15T05:15:43.591+0000",
+"href":"http://test.hiskenya.org/api/dataSets/dSxnXM3ISYe"
+},
+{
+"id":"YpwQ5uBWvp2",
+"created":"2013-08-04T18:16:09.836+0000",
+"name":"HEI Cohort Analysis",
+"lastUpdated":"2014-12-04T19:54:21.609+0000",
+"href":"http://test.hiskenya.org/api/dataSets/YpwQ5uBWvp2"
+},
+{
+"id":"jtc0VUk3TgF",
+"created":"2012-09-10T11:18:09.698+0000",
+"name":"Home and Community Based Care (HCBC) ",
+"lastUpdated":"2014-12-22T07:53:08.943+0000",
+"href":"http://test.hiskenya.org/api/dataSets/jtc0VUk3TgF"
+},
+{
+"id":"XPT9p0NdrGk",
+"created":"2013-02-13T13:54:56.889+0000",
+"name":"Hospital Administrative Statistics",
+"lastUpdated":"2014-12-04T19:50:29.825+0000",
+"code":"HAA",
+"href":"http://test.hiskenya.org/api/dataSets/XPT9p0NdrGk"
+},
+{
+"id":"uJWvRYiT3w3",
+"created":"2013-01-29T12:04:57.557+0000",
+"name":"HSSF Chart of Accounts",
+"lastUpdated":"2014-12-04T19:54:28.970+0000",
+"href":"http://test.hiskenya.org/api/dataSets/uJWvRYiT3w3"
+},
+{
+"id":"El1WmR2hMKu",
+"created":"2013-02-14T08:05:21.128+0000",
+"name":"HSSF Monthly Expenditure",
+"lastUpdated":"2014-12-22T07:56:54.127+0000",
+"href":"http://test.hiskenya.org/api/dataSets/El1WmR2hMKu"
+},
+{
+"id":"IRWhSbHPm2i",
+"created":"2013-03-01T14:45:56.438+0000",
+"name":"HSSF- Statement of receipts and payment (Sources and uses of funds)",
+"lastUpdated":"2014-12-22T07:56:59.512+0000",
+"href":"http://test.hiskenya.org/api/dataSets/IRWhSbHPm2i"
+},
+{
+"id":"cI26WSTQKBg",
+"created":"2013-02-26T14:34:15.752+0000",
+"name":"HSSF summary",
+"lastUpdated":"2014-12-22T07:58:02.442+0000",
+"code":"HSSF summary",
+"href":"http://test.hiskenya.org/api/dataSets/cI26WSTQKBg"
+},
+{
+"id":"ZsUDZGRdwsP",
+"created":"2012-09-10T11:18:11.424+0000",
+"name":"IHRIS Human Resource",
+"lastUpdated":"2014-12-04T19:55:16.261+0000",
+"code":"KE_MOH:KF_HW_JOBGROUP_FAC",
+"href":"http://test.hiskenya.org/api/dataSets/ZsUDZGRdwsP"
+},
+{
+"id":"Wt2AtRYvMZb",
+"created":"2013-02-13T13:54:57.582+0000",
+"name":"IMAM Consumption and Requests",
+"lastUpdated":"2014-12-04T19:50:32.911+0000",
+"href":"http://test.hiskenya.org/api/dataSets/Wt2AtRYvMZb"
+},
+{
+"id":"a8MrJ8DRaWC",
+"created":"2012-11-27T13:27:58.982+0000",
+"name":"Inpatient activities",
+"lastUpdated":"2014-12-04T19:55:20.961+0000",
+"code":"Inpatient activities",
+"href":"http://test.hiskenya.org/api/dataSets/a8MrJ8DRaWC"
+},
+{
+"id":"g3nt1niNo6d",
+"created":"2013-02-27T15:08:26.083+0000",
+"name":"Kenya Mentor Mother Program",
+"lastUpdated":"2014-12-04T19:55:22.567+0000",
+"href":"http://test.hiskenya.org/api/dataSets/g3nt1niNo6d"
+},
+{
+"id":"JPaviRmSsJW",
+"created":"2013-02-27T11:57:40.637+0000",
+"name":"Malaria Commodities Form",
+"lastUpdated":"2014-12-15T09:01:48.427+0000",
+"code":"Malaria Commodities Form",
+"href":"http://test.hiskenya.org/api/dataSets/JPaviRmSsJW"
+},
+{
+"id":"NcPoe7gnWqx",
+"created":"2013-02-25T06:03:42.822+0000",
+"name":"Malaria Early Warning Data (MEWs)",
+"lastUpdated":"2014-12-08T20:22:01.737+0000",
+"href":"http://test.hiskenya.org/api/dataSets/NcPoe7gnWqx"
+},
+{
+"id":"m6EF2FDkLAE",
+"created":"2012-09-10T11:18:14.848+0000",
+"name":"Maternal Death Summary Form",
+"lastUpdated":"2014-12-04T20:10:28.218+0000",
+"href":"http://test.hiskenya.org/api/dataSets/m6EF2FDkLAE"
+},
+{
+"id":"ud6MEHHWLZ8",
+"created":"2013-02-13T13:54:56.356+0000",
+"name":"MDR-TB Case Finding",
+"lastUpdated":"2014-12-04T19:55:32.506+0000",
+"href":"http://test.hiskenya.org/api/dataSets/ud6MEHHWLZ8"
+},
+{
+"id":"TiQ9LVKc2lz",
+"created":"2013-02-13T13:54:56.013+0000",
+"name":"MDR-TB COHORT REPORT ",
+"lastUpdated":"2014-12-04T19:55:33.891+0000",
+"href":"http://test.hiskenya.org/api/dataSets/TiQ9LVKc2lz"
+},
+{
+"id":"nSkYxjokPRF",
+"created":"2013-02-25T06:07:03.919+0000",
+"name":"Medical Equipments",
+"lastUpdated":"2014-12-04T19:55:35.295+0000",
+"code":"Medical Equipments",
+"href":"http://test.hiskenya.org/api/dataSets/nSkYxjokPRF"
+},
+{
+"id":"bQGw3uL9Iw2",
+"created":"2012-11-27T13:27:34.390+0000",
+"name":"MOH 105 Service Delivery Population, Baseline & Targets",
+"lastUpdated":"2014-12-04T19:50:37.969+0000",
+"code":"MOH 105",
+"href":"http://test.hiskenya.org/api/dataSets/bQGw3uL9Iw2"
+},
+{
+"id":"lPykYxJeLKM",
+"created":"2012-11-12T07:55:49.104+0000",
+"name":"MOH 105 Service Delivery Report",
+"lastUpdated":"2014-12-22T08:00:40.872+0000",
+"code":"MOH 105 SDR",
+"href":"http://test.hiskenya.org/api/dataSets/lPykYxJeLKM"
+},
+{
+"id":"DSD1zl3RhDG",
+"created":"2013-06-19T19:10:00.722+0000",
+"name":"MOH 364 Sexual Gender Based Violence Summary Form",
+"lastUpdated":"2014-12-22T08:23:05.880+0000",
+"href":"http://test.hiskenya.org/api/dataSets/DSD1zl3RhDG"
+},
+{
+"id":"zJrL4HQqYmD",
+"created":"2013-02-13T13:54:56.446+0000",
+"name":"MOH 505 IDSR Weekly Epidemic Monitoring Form",
+"lastUpdated":"2014-12-17T09:14:13.567+0000",
+"code":"MOH 505",
+"href":"http://test.hiskenya.org/api/dataSets/zJrL4HQqYmD"
+},
+{
+"id":"TXmr8u5rabj",
+"created":"2013-03-15T05:11:09.687+0000",
+"name":"MOH 515 Community Health Extension Worker Summary",
+"lastUpdated":"2014-12-04T19:50:40.849+0000",
+"code":"CHIS",
+"href":"http://test.hiskenya.org/api/dataSets/TXmr8u5rabj"
+},
+{
+"id":"ovtKPo15xAg",
+"created":"2014-04-04T09:58:33.488+0000",
+"name":"MOH 515 Community Health Extension Worker Summary Revised",
+"lastUpdated":"2014-12-04T19:55:44.629+0000",
+"code":"CHEW",
+"href":"http://test.hiskenya.org/api/dataSets/ovtKPo15xAg"
+},
+{
+"id":"rwveOLJqgkq",
+"created":"2013-10-22T06:52:23.703+0000",
+"name":"MOH 643B F-CDRR for ART lab monitoring reagents (Ver Oct,2014)",
+"lastUpdated":"2015-04-08T15:43:32.413+0000",
+"href":"http://test.hiskenya.org/api/dataSets/rwveOLJqgkq"
+},
+{
+"id":"Tf93vuu9qr5",
+"created":"2015-03-16T16:19:03.519+0000",
+"name":"MOH 643C F-CDRR for EID and Viral Load lab commodities (Ver Oct, 2014)",
+"lastUpdated":"2015-04-08T14:27:47.319+0000",
+"href":"http://test.hiskenya.org/api/dataSets/Tf93vuu9qr5"
+},
+{
+"id":"Rm4ckuMJENv",
+"created":"2013-10-22T09:11:46.521+0000",
+"name":"MOH 643 F-CDRR for Lab commodities (Ver Oct 2014)",
+"lastUpdated":"2015-04-08T15:26:54.309+0000",
+"href":"http://test.hiskenya.org/api/dataSets/Rm4ckuMJENv"
+},
+{
+"id":"oEfGJAQaARj",
+"created":"2012-11-21T08:37:45.434+0000",
+"name":"MOH 705 A Outpatient summary < 5 years",
+"lastUpdated":"2014-12-22T08:00:26.629+0000",
+"code":"OPD summary < 5 years",
+"href":"http://test.hiskenya.org/api/dataSets/oEfGJAQaARj"
+},
+{
+"id":"GVGt4o7VkHk",
+"created":"2012-11-21T08:37:45.429+0000",
+"name":"MOH 705 B Outpatient summary > 5 years",
+"lastUpdated":"2014-12-22T08:00:24.664+0000",
+"code":"MOH705B",
+"href":"http://test.hiskenya.org/api/dataSets/GVGt4o7VkHk"
+},
+{
+"id":"NWVJ9UtQGZP",
+"created":"2012-10-30T05:27:54.450+0000",
+"name":"MOH 708 Environmental Health Services",
+"lastUpdated":"2014-12-04T19:55:52.317+0000",
+"code":"MOH 708",
+"href":"http://test.hiskenya.org/api/dataSets/NWVJ9UtQGZP"
+}
+]
+}
