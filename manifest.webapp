@@ -1,0 +1,14 @@
+{
+  "name": "My App",
+  "description": "fetching json data from a local file and displaying it in table format",
+  "launch_path": "index.html",
+  "icons": {
+    "512": "/img/icon-512.png",
+    "128": "/img/icon-128.png"
+  },
+  "developer": {
+    "name": "Anthony Wanjohi",
+    "url": "http://your-homepage-here.org"
+  },
+  "default_locale": "en"
+}
